@@ -11,6 +11,11 @@ Week 3 编程作业：Logistic Regression（逻辑回归）
 
 相关博客地址：https://blog.csdn.net/f_zyj/article/details/80472708
 
+## machine-learning-ex3
+Week 4 编程作业：Multi-class Classification and Neural Networks（多层次分类和神经网络）
+
+相关博客地址：https://blog.csdn.net/f_zyj/article/details/80962929
+
 ## 关于 f_zyj
 一名退役 ACMer，退役后在努力向机器学习方向靠拢……机器学习还没有入门的小学生，也是一个猫奴。
 
